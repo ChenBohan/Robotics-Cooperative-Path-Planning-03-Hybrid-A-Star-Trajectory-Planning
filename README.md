@@ -1,4 +1,4 @@
-# Robotics-Trajectory-Planning-Hybrid-A-Star
+# Auto-Car-Cooperative-Path-Planning-03-Hybrid-A-Star-Trajectory-Planning
 Python codes for robotics Trajectory-Planning-Hybrid-A-Star algorithm.
 ## What is this?
 This is a Hybrid-A-Star-Trajectory-Planner. <br>
